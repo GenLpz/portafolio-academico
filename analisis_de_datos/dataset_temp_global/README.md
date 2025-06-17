@@ -26,6 +26,9 @@ Cada medición se describe con 7 valores:
 - País
 - Latitud
 - Longitud
+
 El conjunto de datos está disponible en formato CSV con el nombre
 
 GLT_filtrado.csv
+
+Este archivo tiene errores puestos deliberadamente con el objetivo de dar estrategias para llenar muchos datos faltantes de forma lógica con el problema y también buscar errores o datos que no tengan sentido para el contenido del dataset y así poder corregirlos.

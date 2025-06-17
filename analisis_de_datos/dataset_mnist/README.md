@@ -6,4 +6,4 @@ Al principio empezaremos ocupando un archivo de una versión más corta que el d
 
 mnist_version_corta.csv
 
-Después se trabajará con la versión normal del dataset.
+A parte de su respectivo análisis adjunté el inicio de un proyecto de firma electrónica para imágenes en blanco y negro.

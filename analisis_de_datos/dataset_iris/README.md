@@ -5,10 +5,10 @@ de datos Iris contiene mediciones de 150 flores de Iris, cada una perteneciente 
 https://archive.ics.uci.edu/dataset/53/iris 
 
 Cada una de las 150 flores contenidas en el conjunto de datos Iris está representada por 5 valores:
-- longitud del s ́epalo, en cm
-- ancho del s ́epalo, en cm
-- longitud del p ́etalo, en cm
-- ancho del p ́etalo, en cm
+- longitud del sépalo, en cm
+- ancho del sépalo, en cm
+- longitud del pétalo, en cm
+- ancho del pétalo, en cm
 - especie de Iris, una de: Iris-setosa, Iris-versicolor, Iris-virginica
 
 Cada fila del conjunto de datos representa una flor distinta (por lo tanto, el conjunto de datos tendrá 150 filas). 

@@ -30,4 +30,4 @@ se encuentran:
 - área media: Área promedio de las células.
 - suavidad media: Variación local en la longitud de los radios.
 
-Vamos a estudiarlo el conjunto usando pandas.
+Vamos a estudiarlo el conjunto usando pandas donde se analiza la estructura del dataset y se buscan las variables más significativas para realizar el diagnóstico, una vez hecho eso se busca iniciar un método con un valor umbral sobre esas variables y dar una manera muy básica de poder predecir si el tumor es maligno o benigno.
